@@ -32,3 +32,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# typescript
+*.tsbuildinfo
+
+
+firebase_admin_config.json
